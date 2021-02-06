@@ -1,0 +1,15 @@
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\bin\Debug\netcoreapp3.1\CleanLock Keys.exe
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\bin\Debug\netcoreapp3.1\CleanLock Keys.deps.json
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\bin\Debug\netcoreapp3.1\CleanLock Keys.runtimeconfig.json
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\bin\Debug\netcoreapp3.1\CleanLock Keys.runtimeconfig.dev.json
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\bin\Debug\netcoreapp3.1\CleanLock Keys.dll
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\bin\Debug\netcoreapp3.1\CleanLock Keys.pdb
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\obj\Debug\netcoreapp3.1\CleanLock Keys.csprojAssemblyReference.cache
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\obj\Debug\netcoreapp3.1\CleanLock_Keys.MainForm.resources
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\obj\Debug\netcoreapp3.1\CleanLock Keys.csproj.GenerateResource.cache
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\obj\Debug\netcoreapp3.1\CleanLock Keys.AssemblyInfoInputs.cache
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\obj\Debug\netcoreapp3.1\CleanLock Keys.AssemblyInfo.cs
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\obj\Debug\netcoreapp3.1\CleanLock Keys.csproj.CoreCompileInputs.cache
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\obj\Debug\netcoreapp3.1\CleanLock Keys.dll
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\obj\Debug\netcoreapp3.1\CleanLock Keys.pdb
+C:\Users\Foxpa\source\repos\CleanLock Keys\CleanLock Keys\obj\Debug\netcoreapp3.1\CleanLock Keys.genruntimeconfig.cache

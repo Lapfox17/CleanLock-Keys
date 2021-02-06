@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Foxpa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Foxpa\\.nuget\\packages"
+    ]
+  }
+}
